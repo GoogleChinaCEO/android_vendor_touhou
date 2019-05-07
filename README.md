@@ -1,4 +1,5 @@
-LineageOS
+THUI Based on LineageOS
+这个README.md为LineageOS vendor库的原README.md，为遵照开源协议特保留此md
 ===========
 
 Submitting Patches
